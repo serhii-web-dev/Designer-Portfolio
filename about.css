@@ -629,4 +629,26 @@ a:hover {
   .header__nav {
     display: none;
   }
+
+  .Defining_Problem .welcome__text {
+    font-size: 16px;
+  }
+
+  .project_wrapper_one .welcome__text {
+    font-size: 16px;
+
+  }
+
+  .project_wrapper_two .welcome__text {
+    font-size: 16px;
+  }
+
+  .welcome__text {
+    font-size: 16px;
+
+  }
+
+  .projects .welcome__text{
+    font-size: 16px;
+  }
 }
